@@ -1,0 +1,41 @@
+This should Be Added Back To Laravel Files
+
+Home
+
+<a href='/home'>{{$id1}}</a>
+
+--------------------------------
+
+<!-- This code  will Include another page -->
+
+
+ <!-- @extends('contact') 
+
+
+
+ @extends('about') -->
+
+
+-------------------------------------
+
+
+Contact page
+
+  <!-- <h1>{{$id1}} us</h1> -->
+
+
+
+----------------------------
+About Page
+
+<!-- This code will pass the name of the page within your webpage *SEE WEB.PHP* -->
+    <!-- <h1>//{{$id1//}} I am a girl</h1> -->
+
+    <!-- CODE TO ADD VALUE(PASSING ADDITIONAL INFO) TO MULTIPLE PAGES *SEE App Service provider* -->
+    <!-- <h1>//{{$number//}}</h1> -->
+
+
+    -------------------------------------
+    Home Page
+
+    {{$name}}//This is to pass anything entered into the url into the the page
